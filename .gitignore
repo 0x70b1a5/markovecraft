@@ -1,2 +1,4 @@
 *.pyc
 sources/*.txt
+*.tar
+*.txt
